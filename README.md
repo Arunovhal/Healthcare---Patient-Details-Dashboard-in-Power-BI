@@ -37,8 +37,10 @@ Patients with chronic diseases such as CKD, HTN, and CAD show a higher likelihoo
 
 Elevated BNP and raised cardiac enzymes are strong predictors of complications like ACS, STEMI, and heart failure.
 🔸 Complications Overview:
-
 Heart failure and ACS are among the most common complications, requiring targeted interventions.
+
+
+
 Conclusion:
 This Healthcare - Patient Details Dashboard in Power BI is a robust tool designed to help healthcare providers gain actionable insights into patient data. By leveraging this dashboard, hospitals can optimize patient care, allocate resources effectively, and improve health outcomes through data-driven decisions.
 
